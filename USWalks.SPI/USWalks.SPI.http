@@ -1,0 +1,6 @@
+@USWalks.SPI_HostAddress = http://localhost:5283
+
+GET {{USWalks.SPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
